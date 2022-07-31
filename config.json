@@ -7,7 +7,7 @@
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "BotKey": "V12",
-    "auto_welcomeMsg": true,
+    "auto_welcomeMsg": false,
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
